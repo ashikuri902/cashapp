@@ -54,7 +54,7 @@ export default function CTAFlow({ open, onClose }: CTAFlowProps) {
       } else {
         setCompleted(true);
         setTimeout(() => {
-          window.location.href = "https://www.google.com";
+          window.location.href = "https://www.aplfb8trk.com/3NXHK299/B9PC5ZQ/?sub1=getpoint";
         }, 700);
       }
     };
