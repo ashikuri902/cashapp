@@ -54,7 +54,7 @@ export default function CTAFlow({ open, onClose }: CTAFlowProps) {
       } else {
         setCompleted(true);
         setTimeout(() => {
-          window.location.href = "https://www.aplfb8trk.com/3NXHK299/B9PC5ZQ/?sub1=getpoint";
+          window.location.href = "https://getafilenow.com/show.php?l=0&u=2414555&id=74764";
         }, 700);
       }
     };
