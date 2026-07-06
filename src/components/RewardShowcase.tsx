@@ -63,7 +63,7 @@ export default function RewardShowcase({ onCTA }: ShowcaseProps) {
             </h2>
 
             <p className="mt-5 text-base md:text-lg text-[#A0A0A0] leading-relaxed max-w-xl">
-              The most exclusive reward on Gift Access. Limited inventory, instant access for verified members.
+              The most exclusive reward on Premium Access. Limited inventory, instant access for verified members.
             </p>
 
             {/* Stats Grid */}
