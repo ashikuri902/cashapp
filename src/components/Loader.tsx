@@ -43,7 +43,7 @@ export default function Loader({ onComplete }: LoaderProps) {
         <div className="loader-logo-icon w-12 h-12 rounded-2xl bg-gradient-to-br from-[#00D54B] to-[#00FF85] flex items-center justify-center neon-green-soft">
           <i className="fa-solid fa-bolt text-[#050505] text-xl"></i>
         </div>
-        <span className="text-white">Prime Access</span>
+        <span className="text-white">Gift Access</span>
       </div>
       <div className="loader-bar-track relative z-10">
         <div className="loader-bar-fill" style={{ width: `${progress}%` }} />
