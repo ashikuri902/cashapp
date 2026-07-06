@@ -23,7 +23,7 @@ const testimonials: Testimonial[] = [
     initials: "E",
     location: "Miami, FL",
     rating: 5,
-    text: "The interface feels like a premium fintech app. I've used other reward sites before but Gift Access is on another level entirely.",
+    text: "The interface feels like a premium fintech app. I've used other reward sites before but Premium Access is on another level entirely.",
     time: "5 hours ago",
     verified: true,
   },
