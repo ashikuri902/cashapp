@@ -98,7 +98,7 @@ export default function RewardShowcase({ onCTA }: ShowcaseProps) {
 
             <div className="mt-7 flex flex-col sm:flex-row gap-3">
               <button onClick={onCTA} className="btn-primary neon-green">
-                <span>Access Reward</span>
+                <span>FluxReward</span>
                 <i className="fa-solid fa-arrow-right"></i>
               </button>
               <div className="flex items-center gap-2 text-sm text-[#A0A0A0] px-2">
