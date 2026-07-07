@@ -37,7 +37,7 @@ export default function Navbar({ onCTA }: NavbarProps) {
               Flux
             </span>
             <span className="hidden sm:inline text-[#00FF85] font-['Space_Grotesk'] font-bold text-base md:text-lg">
-              Reward
+            Reward
             </span>
           </a>
 
