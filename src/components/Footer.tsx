@@ -12,11 +12,11 @@ export default function Footer() {
                 <i className="fa-solid fa-bolt text-[#050505] text-base"></i>
               </div>
               <span className="font-['Space_Grotesk'] font-bold text-white text-lg">
-                Premium Access <span className="text-[#00FF85]">Rewards</span>
+                FluxReward <span className="text-[#00FF85]">Rewards</span>
               </span>
             </a>
             <p className="text-sm text-[#A0A0A0] leading-relaxed mb-5">
-              Premium access to exclusive rewards. Built with security, speed, and transparency at the core.
+              FluxReward to exclusive rewards. Built with security, speed, and transparency at the core.
             </p>
             <div className="flex items-center gap-2">
               {[
@@ -89,7 +89,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="pt-7 border-t border-white/5 flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="text-xs text-[#A0A0A0]">
-            © {new Date().getFullYear()} Premium Access Rewards. All rights reserved.
+            © {new Date().getFullYear()} FluxReward. All rights reserved.
           </div>
           <div className="flex items-center gap-4 text-xs text-[#A0A0A0]">
             <div className="flex items-center gap-1.5">
@@ -107,7 +107,7 @@ export default function Footer() {
         <div className="mt-7 p-4 md:p-5 rounded-2xl bg-white/[0.02] border border-white/5">
           <p className="text-[11px] md:text-xs text-[#A0A0A0] leading-relaxed text-center max-w-3xl mx-auto">
             <i className="fa-solid fa-circle-info text-[#00FF85] mr-1.5"></i>
-            Premium Access Rewards is an independent rewards access platform. Cash App is a trademark of Block, Inc. This site is not affiliated with, endorsed by, or sponsored by Block, Inc. Reward availability, terms, and conditions are subject to the third-party offer provider.
+            FluxReward is an independent rewards access platform. Cash App is a trademark of Block, Inc. This site is not affiliated with, endorsed by, or sponsored by Block, Inc. Reward availability, terms, and conditions are subject to the third-party offer provider.
           </p>
         </div>
       </div>
