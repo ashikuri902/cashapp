@@ -48,7 +48,7 @@ export default function Features(_: FeaturesProps) {
         <div className="text-center max-w-3xl mx-auto mb-12 md:mb-16">
           <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-[rgba(0,213,75,0.08)] border border-[rgba(0,255,133,0.25)] text-[#00FF85] text-xs font-semibold tracking-wider uppercase mb-5">
             <i className="fa-solid fa-sparkles"></i>
-            <span>Why Premium Access</span>
+            <span>Why FluxReward</span>
           </div>
           <h2 className="font-['Space_Grotesk'] font-bold text-4xl md:text-5xl lg:text-6xl tracking-tight text-white leading-[1.05]">
             Built for those who
