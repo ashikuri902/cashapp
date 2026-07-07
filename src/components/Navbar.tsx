@@ -34,10 +34,10 @@ export default function Navbar({ onCTA }: NavbarProps) {
               <i className="fa-solid fa-bolt text-[#050505] text-base"></i>
             </div>
             <span className="font-['Space_Grotesk'] font-bold text-white text-base md:text-lg tracking-tight">
-              FluxReward
+              Flux
             </span>
             <span className="hidden sm:inline text-[#00FF85] font-['Space_Grotesk'] font-bold text-base md:text-lg">
-              Rewards
+              Reward
             </span>
           </a>
 
